@@ -1,0 +1,10 @@
+# === SSH Private Keys ===
+*.private
+*.pem
+*.ppk
+
+# === SSH Public Keys ===
+*.pub
+
+# === Others ===
+.vscode/
